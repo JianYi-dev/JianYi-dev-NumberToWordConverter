@@ -21,3 +21,7 @@ This project provides a tool for converting numerical input into words. It inclu
 ### Web Interface
 1. Enter a numerical value into the input field.
 2. Click the "Convert" button to see the corresponding words displayed.
+
+#### Documents
+1. Algorithm approach -> NumberToWordsConverter_Approach.docx
+2. Test Plan -> NumberToWordsConverter_TestPlan.docx
